@@ -1,5 +1,4 @@
 # Machine Learning Supervised
- Taux-de-conversion
 
 Optimiser des taux de conversion
 
